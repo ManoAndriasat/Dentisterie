@@ -1,0 +1,70 @@
+/home/mano/Desktop/GestionDentiste/bin/Debug/net6.0/appsettings.Development.json
+/home/mano/Desktop/GestionDentiste/bin/Debug/net6.0/appsettings.json
+/home/mano/Desktop/GestionDentiste/bin/Debug/net6.0/GestionDentiste.staticwebassets.runtime.json
+/home/mano/Desktop/GestionDentiste/bin/Debug/net6.0/GestionDentiste
+/home/mano/Desktop/GestionDentiste/bin/Debug/net6.0/GestionDentiste.deps.json
+/home/mano/Desktop/GestionDentiste/bin/Debug/net6.0/GestionDentiste.runtimeconfig.json
+/home/mano/Desktop/GestionDentiste/bin/Debug/net6.0/GestionDentiste.dll
+/home/mano/Desktop/GestionDentiste/bin/Debug/net6.0/GestionDentiste.pdb
+/home/mano/Desktop/GestionDentiste/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/mano/Desktop/GestionDentiste/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/mano/Desktop/GestionDentiste/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/mano/Desktop/GestionDentiste/bin/Debug/net6.0/Npgsql.dll
+/home/mano/Desktop/GestionDentiste/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/home/mano/Desktop/GestionDentiste/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/home/mano/Desktop/GestionDentiste/bin/Debug/net6.0/System.Text.Json.dll
+/home/mano/Desktop/GestionDentiste/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/home/mano/Desktop/GestionDentiste/obj/Debug/net6.0/GestionDentiste.csproj.AssemblyReference.cache
+/home/mano/Desktop/GestionDentiste/obj/Debug/net6.0/GestionDentiste.GeneratedMSBuildEditorConfig.editorconfig
+/home/mano/Desktop/GestionDentiste/obj/Debug/net6.0/GestionDentiste.AssemblyInfoInputs.cache
+/home/mano/Desktop/GestionDentiste/obj/Debug/net6.0/GestionDentiste.AssemblyInfo.cs
+/home/mano/Desktop/GestionDentiste/obj/Debug/net6.0/GestionDentiste.csproj.CoreCompileInputs.cache
+/home/mano/Desktop/GestionDentiste/obj/Debug/net6.0/GestionDentiste.MvcApplicationPartsAssemblyInfo.cache
+/home/mano/Desktop/GestionDentiste/obj/Debug/net6.0/GestionDentiste.RazorAssemblyInfo.cache
+/home/mano/Desktop/GestionDentiste/obj/Debug/net6.0/GestionDentiste.RazorAssemblyInfo.cs
+/home/mano/Desktop/GestionDentiste/obj/Debug/net6.0/staticwebassets.build.json
+/home/mano/Desktop/GestionDentiste/obj/Debug/net6.0/staticwebassets.development.json
+/home/mano/Desktop/GestionDentiste/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/mano/Desktop/GestionDentiste/obj/Debug/net6.0/scopedcss/bundle/GestionDentiste.styles.css
+/home/mano/Desktop/GestionDentiste/obj/Debug/net6.0/scopedcss/projectbundle/GestionDentiste.bundle.scp.css
+/home/mano/Desktop/GestionDentiste/obj/Debug/net6.0/GestionDentiste.csproj.CopyComplete
+/home/mano/Desktop/GestionDentiste/obj/Debug/net6.0/GestionDentiste.dll
+/home/mano/Desktop/GestionDentiste/obj/Debug/net6.0/refint/GestionDentiste.dll
+/home/mano/Desktop/GestionDentiste/obj/Debug/net6.0/GestionDentiste.pdb
+/home/mano/Desktop/GestionDentiste/obj/Debug/net6.0/GestionDentiste.genruntimeconfig.cache
+/home/mano/Desktop/GestionDentiste/obj/Debug/net6.0/ref/GestionDentiste.dll
+/home/mano/Desktop/Mr Tahina/GestionDentiste/bin/Debug/net6.0/appsettings.Development.json
+/home/mano/Desktop/Mr Tahina/GestionDentiste/bin/Debug/net6.0/appsettings.json
+/home/mano/Desktop/Mr Tahina/GestionDentiste/bin/Debug/net6.0/GestionDentiste.staticwebassets.runtime.json
+/home/mano/Desktop/Mr Tahina/GestionDentiste/bin/Debug/net6.0/GestionDentiste
+/home/mano/Desktop/Mr Tahina/GestionDentiste/bin/Debug/net6.0/GestionDentiste.deps.json
+/home/mano/Desktop/Mr Tahina/GestionDentiste/bin/Debug/net6.0/GestionDentiste.runtimeconfig.json
+/home/mano/Desktop/Mr Tahina/GestionDentiste/bin/Debug/net6.0/GestionDentiste.dll
+/home/mano/Desktop/Mr Tahina/GestionDentiste/bin/Debug/net6.0/GestionDentiste.pdb
+/home/mano/Desktop/Mr Tahina/GestionDentiste/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/mano/Desktop/Mr Tahina/GestionDentiste/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/mano/Desktop/Mr Tahina/GestionDentiste/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/mano/Desktop/Mr Tahina/GestionDentiste/bin/Debug/net6.0/Npgsql.dll
+/home/mano/Desktop/Mr Tahina/GestionDentiste/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/home/mano/Desktop/Mr Tahina/GestionDentiste/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/home/mano/Desktop/Mr Tahina/GestionDentiste/bin/Debug/net6.0/System.Text.Json.dll
+/home/mano/Desktop/Mr Tahina/GestionDentiste/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/home/mano/Desktop/Mr Tahina/GestionDentiste/obj/Debug/net6.0/GestionDentiste.csproj.AssemblyReference.cache
+/home/mano/Desktop/Mr Tahina/GestionDentiste/obj/Debug/net6.0/GestionDentiste.GeneratedMSBuildEditorConfig.editorconfig
+/home/mano/Desktop/Mr Tahina/GestionDentiste/obj/Debug/net6.0/GestionDentiste.AssemblyInfoInputs.cache
+/home/mano/Desktop/Mr Tahina/GestionDentiste/obj/Debug/net6.0/GestionDentiste.AssemblyInfo.cs
+/home/mano/Desktop/Mr Tahina/GestionDentiste/obj/Debug/net6.0/GestionDentiste.csproj.CoreCompileInputs.cache
+/home/mano/Desktop/Mr Tahina/GestionDentiste/obj/Debug/net6.0/GestionDentiste.MvcApplicationPartsAssemblyInfo.cache
+/home/mano/Desktop/Mr Tahina/GestionDentiste/obj/Debug/net6.0/GestionDentiste.RazorAssemblyInfo.cache
+/home/mano/Desktop/Mr Tahina/GestionDentiste/obj/Debug/net6.0/GestionDentiste.RazorAssemblyInfo.cs
+/home/mano/Desktop/Mr Tahina/GestionDentiste/obj/Debug/net6.0/staticwebassets.build.json
+/home/mano/Desktop/Mr Tahina/GestionDentiste/obj/Debug/net6.0/staticwebassets.development.json
+/home/mano/Desktop/Mr Tahina/GestionDentiste/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/mano/Desktop/Mr Tahina/GestionDentiste/obj/Debug/net6.0/scopedcss/bundle/GestionDentiste.styles.css
+/home/mano/Desktop/Mr Tahina/GestionDentiste/obj/Debug/net6.0/scopedcss/projectbundle/GestionDentiste.bundle.scp.css
+/home/mano/Desktop/Mr Tahina/GestionDentiste/obj/Debug/net6.0/GestionDentiste.csproj.CopyComplete
+/home/mano/Desktop/Mr Tahina/GestionDentiste/obj/Debug/net6.0/GestionDentiste.dll
+/home/mano/Desktop/Mr Tahina/GestionDentiste/obj/Debug/net6.0/refint/GestionDentiste.dll
+/home/mano/Desktop/Mr Tahina/GestionDentiste/obj/Debug/net6.0/GestionDentiste.pdb
+/home/mano/Desktop/Mr Tahina/GestionDentiste/obj/Debug/net6.0/GestionDentiste.genruntimeconfig.cache
+/home/mano/Desktop/Mr Tahina/GestionDentiste/obj/Debug/net6.0/ref/GestionDentiste.dll
